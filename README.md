@@ -33,3 +33,7 @@ Why Choose Our App?
 Take Control of Your Health Today!
 
 Achieving your nutrition and wellness goals doesn’t have to be complicated. With our app, you have all the tools you need in the palm of your hand. Download now and start tracking your way to a healthier you!
+
+
+## If anything breaks
+Create issues in this project or simply email `mzhfei@outlook.com`
